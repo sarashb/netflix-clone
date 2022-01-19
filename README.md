@@ -7,3 +7,4 @@ Um clone da pagina principal da Netflix criado durante o Bootcamp HTML Developer
 - HTML
 - CSS
 - JavaScript
+- Jquery
