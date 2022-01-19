@@ -33,6 +33,7 @@ header .logo{
 }
 
 header nav a{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
     color: #AAA;
     margin-right: 10px;
@@ -64,6 +65,7 @@ header nav a:hover{
     width: 70%;
 }
 .filme-principal .descricao {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 10px;
     margin-bottom: 40px;
 }
